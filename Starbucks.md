@@ -31,3 +31,30 @@
 - SugarFree Cinnamon Dolce
 - Heavy Cream
 - Cinnamon Powder
+## Red Tea Latte
+- Venti iced royal English breakfast tea latte
+- less sugar less ice
+- salted caramel cold foam
+## 火龙果芝芝
+- light iced Grande Dragon Drink
+- salted caramel cold foam
+## 草莓芝芝
+- light iced grande pink drink
+- salted caramel cold foam
+## 海盐奶盖 - 冰桃绿茶
+- grande iced peach green tea
+- salted caramel cold foam
+## 樱花
+- guava white tea with coconut milk
+## 奶油水蜜桃
+- Grande Peach Juice
+- Coconut Milk
+- No ice
+## 日式烘焙奶茶
+- Tall Black iced tea 
+- no water
+- breve
+- 5 pumps liquid cane sugar
+- raspberry syrup
+- 2 pumps Toffee nut syrup
+- 
