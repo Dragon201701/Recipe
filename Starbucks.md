@@ -57,4 +57,21 @@
 - 5 pumps liquid cane sugar
 - raspberry syrup
 - 2 pumps Toffee nut syrup
+## Crisp Apple Black tea 苹果黑糖红茶
+- Venti cup English breakfast tea
+- Splash of 2% milk
+- Extra splash of soy milk
+- 3 pumps of apple brown sugar syrup
+- 3 - 4 tea bags.
+## Dragonfruit Beverage
+- Venti Mango Dragonfruit Starbuck Refreshers Beverage
+- Light Ice
+- Splash of Passion Tango Tea
+- No water
+## Peach Green Tea
+- Venti Iced Peach Green Tea
+- Light Ice
+- Splash of Heavy Cream
+- Splash of Coconutmilk
+- Extra Peach Juice Blend
 - 
