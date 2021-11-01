@@ -9,7 +9,41 @@
 - Grande Blended Strawberry Lemonade
 - Banana
 - Peach Juice (a splash)
+
+### Mango Dragonfruit 改
+- Grande Mango Dragonfruit with no water
+- double blended with strawberry puree
+- Whip Cream
+
+### 香草草莓星冰乐
+- Grande Vanilla Bean Frappucino with strawberry puree
+- graham cracker topping on bottom and top of whipped cream
+
+### Strawberry Lemonade refresher
+- Grande Blended Strawberry Lemonade
+- Pineapple ginger syrup
+- 1 scoop of strawberry inclusions
+
+### Chocolate cookie frappucino
+- Grande Double cholcate chip frappucino with no mocha syrup
+- Substitute white mocha
+- Cookie crumble topping on top of whiped cream
+
+### Fruity and Non-Diary White peach mocha frappucino
+- Grande white mocha cream frappucino with coconut milk
+- peach juice
+- whipe cream
+
+### 莓果星冰乐
+- Grande Strawberry Cream Frappucino with no classic syrup
+- Raspberry and vanilla syrup
+- Heavy cream
+
 ## With Caffine
+### Cold Brew 改
+- Venti Cold Brew with white mocha
+- cold foam blended with heavy cream and 3 scoupe of Vanilla Bean
+
 ### Matcha Strawberry
 - Grande Iced Green Tea Latte
 - Vanilla Cold Foam
