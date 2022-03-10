@@ -1,2 +1,2 @@
 # Recipe
-Collection of Traditional Chinese cusine and more!
+Collection of Dragon's Recipe from Starbuck coffee to traditional chinese food.
