@@ -1,4 +1,4 @@
-# 煎烤三文鱼 （中式）
+# 煎烤三文鱼 （中式）v0.1
 ## Ingredients
 - Salmon 带皮三文鱼
 - Light soy sauce 生抽
