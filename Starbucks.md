@@ -40,6 +40,14 @@
 - Heavy cream
 
 ## With Caffine
+### Purple Drink 香芋紫
+- Venti Iced Passion Tango Tea
+- Light Ice
+- No water 不然会比较水
+- 4 pumps Raspberry Syrup
+- Salted Caramel Cream Cold Foam 灵魂所在
+- Splash of Oatmilk/Soymilk
+
 ### Cold Brew 改
 - Venti Cold Brew with white mocha
 - cold foam blended with heavy cream and 3 scoupe of Vanilla Bean
