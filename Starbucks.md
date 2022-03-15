@@ -38,6 +38,17 @@
 - Grande Strawberry Cream Frappucino with no classic syrup
 - Raspberry and vanilla syrup
 - Heavy cream
+### 火龙果芝芝
+- light iced Grande Dragon Drink
+- salted caramel cold foam
+### 草莓芝芝
+- light iced grande pink drink
+- salted caramel cold foam
+
+### Red Drink
+- Grand strawberry refresher without water
+- extra salted cream foam
+- extra 3 scoops of strawberry
 
 ## With Caffine
 ### Purple Drink 香芋紫
@@ -73,47 +84,47 @@
 - SugarFree Cinnamon Dolce
 - Heavy Cream
 - Cinnamon Powder
-## Red Tea Latte
+### Red Tea Latte
 - Venti iced royal English breakfast tea latte
 - less sugar less ice
 - salted caramel cold foam
-## 火龙果芝芝
-- light iced Grande Dragon Drink
-- salted caramel cold foam
-## 草莓芝芝
-- light iced grande pink drink
-- salted caramel cold foam
-## 海盐奶盖 - 冰桃绿茶
+
+### 海盐奶盖 - 冰桃绿茶
 - grande iced peach green tea
 - salted caramel cold foam
-## 樱花
+### 樱花
 - guava white tea with coconut milk
-## 奶油水蜜桃
+- 
+### 奶油水蜜桃
 - Grande Peach Juice
 - Coconut Milk
 - No ice
-## 日式烘焙奶茶
+
+### 日式烘焙奶茶
 - Tall Black iced tea 
 - no water
 - breve
 - 5 pumps liquid cane sugar
 - raspberry syrup
 - 2 pumps Toffee nut syrup
-## Crisp Apple Black tea 苹果黑糖红茶
+  
+### Crisp Apple Black tea 苹果黑糖红茶
 - Venti cup English breakfast tea
 - Splash of 2% milk
 - Extra splash of soy milk
 - 3 pumps of apple brown sugar syrup
 - 3 - 4 tea bags.
-## Dragonfruit Beverage
+
+### Dragonfruit Beverage
 - Venti Mango Dragonfruit Starbuck Refreshers Beverage
 - Light Ice
 - Splash of Passion Tango Tea
 - No water
-## Peach Green Tea
+
+### Peach Green Tea
 - Venti Iced Peach Green Tea
 - Light Ice
 - Splash of Heavy Cream
 - Splash of Coconutmilk
 - Extra Peach Juice Blend
-- 
+
