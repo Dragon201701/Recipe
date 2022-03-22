@@ -1,6 +1,6 @@
 # Starbuck recipe
 ## Caffine-free
-### Caffine-free Ube?
+### Caffine-free Ube v0.1
 - Grande Vanilla Bean Frappuccino
 - Toffee Nut Syrup (1 pump)
 - Dragon Fruit (1 scoop)
@@ -41,9 +41,12 @@
 ### 火龙果芝芝
 - light iced Grande Dragon Drink
 - salted caramel cold foam
+- passion fruit purree (optional)
+- 
 ### 草莓芝芝
 - light iced grande pink drink
 - salted caramel cold foam
+- strawberry puree (optional)
 
 ### Red Drink
 - Grand strawberry refresher without water
@@ -56,8 +59,9 @@
 - Light Ice
 - No water 不然会比较水
 - 4 pumps Raspberry Syrup
+- Splash of Oatmilk/Soymilk/coconut milk
+- A scoop of black berries / rasberry / passionfruit
 - Salted Caramel Cream Cold Foam 灵魂所在
-- Splash of Oatmilk/Soymilk
 
 ### Cold Brew 改
 - Venti Cold Brew with white mocha
@@ -128,3 +132,35 @@
 - Splash of Coconutmilk
 - Extra Peach Juice Blend
 
+### Iced Coffee with Toffee Nut and Hazelnut 
+- Grande iced coffee with whole milk
+- replace classic syrup with hazelnut and toffee syrup
+- add sweet cream cold foam/salted caramel cold foam on top
+
+### Chocolate Moss Cold Brew
+- Venti iced cold brew
+- two pumps of vinilla syrup
+- three pump of mocha sauce
+- sweet vinilla cold foam
+- two pump of mocha sauce inside the cold foam
+- cookie dizzle
+
+### Butter Bear Frap
+- Grande vinilla frap
+- three pumps of toffee nut syrup
+- three pumps of caramel syrup
+- whipped cream
+- caramel sauce on top
+
+### Sqad Game Frap
+- Strawberry Frap
+- 1 pump of passionfruit sauce
+- 1 pump of white cholcate mocha sauce
+- whipped cream
+- mocha sauce on top
+
+### Sunset Drink 日落沙滩/暮色？
+- Venti Iced peach green tea
+- extra peach juice
+- passion tea on the top
+- Cold foam (???)
