@@ -53,6 +53,43 @@
 - extra salted cream foam
 - extra 3 scoops of strawberry
 
+### 桃桃星冰乐
+- vanilla cream frapp
+- add peach juice
+- a scoop of strawberry inclusion
+
+### 莓莓桃桃白巧摩卡星冰乐
+- Grande White Chocolate Mocha Frap
+- blended with Peach Juice
+- 4 scoops strawberry puree
+- whipped cream on both top and bottom
+- strawberry pieces on top
+
+## 香草摩卡星冰乐改
+- Vanilla Bean/Caffe Vanilla Frappuccino blended beverage
+- 2 pumps mocha sauce
+- caramel drizzle
+- extra whipped cream
+- Oatmilk
+- 1 frappuccino chips
+- 2 pumps of toffee nut syrup
+
+### 黄油啤酒星冰乐
+- Grande vinilla Frappuccino
+- 3 pumps caramel syrup
+- 3 pump toffee nut syrup
+- whipped cream
+- caramel sauce on top
+
+### 黄油啤酒星冰乐低卡 125 cal
+- Grande coffee Frappuccino
+- Substitute to extra coconut milk
+- 2 pumps caramel syrup
+- 1 pump toffee nut syrup
+- 1 stevia
+- only 1 pump of frappuccino base (no normal base)
+- light ice
+
 ## With Caffine
 ### Purple Drink 香芋紫
 - Venti Iced Passion Tango Tea
@@ -63,6 +100,13 @@
 - A scoop of black berries / rasberry / passionfruit
 - Salted Caramel Cream Cold Foam 灵魂所在
 
+### Sugar free Purple Drink 无糖香芋紫
+- Grande passion tango tea
+- extra splash coconut milk
+- 2 pump sugarfree vanilla syrup
+- light water
+- light ice
+  
 ### Cold Brew 改
 - Venti Cold Brew with white mocha
 - cold foam blended with heavy cream and 3 scoupe of Vanilla Bean
@@ -71,23 +115,28 @@
 - Grande Iced Green Tea Latte
 - Vanilla Cold Foam
 - Strawberry Puree
+
 ### Double-shot drink/Vietnamese style iced coffee
 - Venti Starbucks Double-Shot
 - Classic Syrup
 - Extra Vanilla Sweet Cream
+  
 ### Strawberry Matcha
 - Grande Pink Drink
 - Vanilla Cold Foam
 - Matcha (1 scoop)
+  
 ### Passion Peach Tea
 - Grande Green Tea Lemonade
 - Sweetener (optional)
 - Passion Tea (splash on top)
+
 ### low-carb Cinnamon Dolce
 - Grande Iced Americano
 - SugarFree Cinnamon Dolce
 - Heavy Cream
 - Cinnamon Powder
+
 ### Red Tea Latte
 - Venti iced royal English breakfast tea latte
 - less sugar less ice
@@ -164,3 +213,24 @@
 - extra peach juice
 - passion tea on the top
 - Cold foam (???)
+
+### Pink Drink 改？
+- Iced Passion tango tea
+- sub vanilla syrup
+- light ice
+- splash of heavy cream
+- shaken together
+- 奶盖？
+
+### 巧克力慕斯冷萃
+- Venti iced cold brew
+- two pumps of vinilla syrup
+- three pump of mocha sauce
+- sweet vinilla cold foam
+- two pumps of mocha suace inside the cold foam
+- cookie dizzle
+
+### 覆盆子玛奇朵
+- Grande caramel macchicato
+- no ice
+- rasberry syrup
