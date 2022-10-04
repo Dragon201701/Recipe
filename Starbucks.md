@@ -29,6 +29,9 @@
 - Substitute white mocha
 - Cookie crumble topping on top of whiped cream
 
+### Chocolate cookie frappucino 2
+- Venti Chocolate Cookie Crumble Frappuccino with extra mocha drizzle
+
 ### Fruity and Non-Diary White peach mocha frappucino
 - Grande white mocha cream frappucino with coconut milk
 - peach juice
