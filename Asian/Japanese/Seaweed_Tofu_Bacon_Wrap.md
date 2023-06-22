@@ -1,4 +1,4 @@
-# 海苔豆腐培根卷 Seaweed Tofu Bacon Wrap
+# 海苔豆腐培根卷 Japanese Tofu wrapped in Seaweed and Bacon
 ## 食材
 - 鸡蛋
 - 玉米淀粉

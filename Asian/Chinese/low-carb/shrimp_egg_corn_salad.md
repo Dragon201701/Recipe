@@ -3,13 +3,13 @@
 - 1/2 lb cooked shrimp
 - 3 eggs
 - 1 cup corn
-- diced garlic 蒜末
-- millet pepper 小米辣
-- chili powder 辣椒面
-- white seasme 白芝麻
-- light soy sauce 生抽
-- vinegar 陈醋
-- Oyster sauce 耗油
+- 1/2 tbp diced garlic 蒜末
+- 1/2 tbp millet pepper 小米辣
+- 1/2 tsp chili powder 辣椒面
+- 1/2 tsp white seasme 白芝麻
+- 1/2 tbp light soy sauce 生抽
+- 1 tsp vinegar 陈醋
+- 1/2 tbp Oyster sauce 耗油
 - salt
 
 ## Steps
