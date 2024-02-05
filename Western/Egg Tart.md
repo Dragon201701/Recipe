@@ -22,6 +22,6 @@
   
 ## Note
 For 12 egg tart.
-Oven preheat to 375F and bake 20-30 minutes.
+Oven preheat to 425F and bake 20-30 minutes.
 
 reheat when taken out from fridge: 375F 5-8 minutes.
